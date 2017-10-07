@@ -6,7 +6,7 @@ A comprehensive list of job roles.
 
 The data is available in
 
-* TXT
+* TXT (occupation.txt)
 
 ### Caveats
 
